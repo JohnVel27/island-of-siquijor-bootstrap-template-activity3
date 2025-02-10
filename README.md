@@ -23,23 +23,9 @@ The website design is based on the [Travela Template](https://themewagon.com/the
 - **Travel Information**: Details on how to get to Siquijor, including transport options and travel tips.
 - **Contact Form**: A simple form that allows tourists to inquire or request more information about their visit.
 
-## Demo
+## Example of my work SIQUIJOR WEBSITE DESIGN
 
-You can view the live demo of the website at [insert your website link here].
+https://johnvel27.github.io/island-of-siquijor-bootstrap-template-activity3/
 
-## How to Use
-
-1. Clone or download the repository.
-2. Customize the content as needed, replacing images and text with your own.
-3. Publish the website to your hosting provider or use platforms like GitHub Pages to make it live.
-
-## Installation
-
-To install the template locally, follow these steps:
-
-1. Clone this repository:
-
-```bash
-git clone [repository link]
 
 
